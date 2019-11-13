@@ -15,7 +15,6 @@
 * [Java 面试大全](https://vipzhou.cn/articles/2019/11/05/1572943817988.html)
 * [CentOS 7 下如何安装 Docker](https://vipzhou.cn/articles/2019/11/05/1572940816445.html)
 * [Docker 基础入门](https://vipzhou.cn/articles/2019/11/05/1572940504353.html)
-* [RabbitMQ 消息队列入门](https://vipzhou.cn/articles/2019/11/05/1572940008652.html)
 * [关于我](https://vipzhou.cn/aboutme)
 * [Spring Boot 项目如何指定随机端口启动](https://vipzhou.cn/articles/2019/11/04/1572882640366.html)
 
